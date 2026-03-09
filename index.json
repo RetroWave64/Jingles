@@ -1,13 +1,37 @@
 {
-  "name": "Example Jingle Pack",
+  "name": "Nintendo 3DS Jingle Pack",
   "entries": [
-    {
-      "game": "Example Game 1",
-      "file": "jingles/example-game-1.mp3"
-    },
-    {
-      "game": "Example Game 2",
-      "file": "jingles/example-game-2.mp3"
-    }
+    { "game": "Rusty's Real Deal Baseball", "file": "jingles/3DS/021 Rusty's Real Deal Baseball.wav" },
+    { "game": "Super Mario 3D Land", "file": "jingles/3DS/022 Super Mario 3D Land.wav" },
+    { "game": "New Super Mario Bros. 2", "file": "jingles/3DS/023 New Super Mario Bros. 2.wav" },
+    { "game": "Super Mario Maker for Nintendo 3DS", "file": "jingles/3DS/024 Super Mario Maker for Nintendo 3DS.wav" },
+    { "game": "Mario Kart 7", "file": "jingles/3DS/025 Mario Kart 7.wav" },
+    { "game": "Mario Golf World Tour & Mario Tennis Open", "file": "jingles/3DS/026 Mario Golf World Tour & Mario Tennis Open.wav" },
+    { "game": "Mario Sports Superstars", "file": "jingles/3DS/027 Mario Sports Superstars.wav" },
+    { "game": "Mini Mario & Friends amiibo Challenge", "file": "jingles/3DS/038 Mini Mario & Friends amiibo Challenge.wav" },
+    { "game": "Yoshi's New Island", "file": "jingles/3DS/039 Yoshi's New Island.wav" },
+    { "game": "Poochy & Yoshi's Woolly World", "file": "jingles/3DS/040 Poochy & Yoshi's Woolly World.wav" },
+    { "game": "Luigi's Mansion", "file": "jingles/3DS/041 Luigi's Mansion.wav" },
+    { "game": "Captain Toad Treasure Tracker", "file": "jingles/3DS/045 Captain Toad Treasure Tracker.wav" },
+    { "game": "Tomodachi Life", "file": "jingles/3DS/046 Tomodachi Life.wav" },
+    { "game": "Miitopia", "file": "jingles/3DS/047 Miitopia.wav" },
+    { "game": "Hyrule Warriors Legends", "file": "jingles/3DS/052 Hyrule Warriors Legends.wav" },
+    { "game": "Kirby Triple Deluxe", "file": "jingles/3DS/057 Kirby Triple Deluxe.wav" },
+    { "game": "Kirby Planet Robobot", "file": "jingles/3DS/058 Kirby Planet Robobot.wav" },
+    { "game": "Kirby Fighters Deluxe", "file": "jingles/3DS/059 Kirby Fighters Deluxe.wav" },
+    { "game": "Dedede's Drum Dash Deluxe", "file": "jingles/3DS/060 Dedede's Drum Dash Deluxe.wav" },
+    { "game": "Kirby's Blowout Blast", "file": "jingles/3DS/061 Kirby's Blowout Blast.wav" },
+    { "game": "Team Kirby Clash Deluxe", "file": "jingles/3DS/062 Team Kirby Clash Deluxe.wav" },
+    { "game": "Kirby Battle Royale", "file": "jingles/3DS/063 Kirby Battle Royale.wav" },
+    { "game": "Kirby's Extra Epic Yarn", "file": "jingles/3DS/064 Kirby's Extra Epic Yarn.wav" },
+    { "game": "BoxBoy!", "file": "jingles/3DS/065 BoxBoy!.wav" },
+    { "game": "BoxBoxBoy!", "file": "jingles/3DS/066 BoxBoxBoy!.wav" },
+    { "game": "Bye Bye BoxBoy!", "file": "jingles/3DS/067 Bye Bye BoxBoy!.wav" },
+    { "game": "Pilotwings Resort", "file": "jingles/3DS/068 Pilotwings Resort.wav" },
+    { "game": "Super Smash Bros. for Nintendo 3DS", "file": "jingles/3DS/069 Super Smash Bros. for Nintendo 3DS.wav" },
+    { "game": "Donkey Kong Country Returns 3D", "file": "jingles/3DS/070 Donkey Kong Country Returns 3D.wav" },
+    { "game": "Star Fox 64 3D", "file": "jingles/3DS/071 Star Fox 64 3D.wav" },
+    { "game": "Hey! Pikmin", "file": "jingles/3DS/072 Hey! Pikmin.wav" },
+    { "game": "Kid Icarus Uprising", "file": "jingles/3DS/073 Kid Icarus Uprising.wav" }
   ]
 }
