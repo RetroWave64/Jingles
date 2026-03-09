@@ -888,6 +888,114 @@
     {
       "game": "Shantae Risky's Revenge (DSiWare)",
       "file": "jingles/3DS/297 Shantae Risky's Revenge (DSiWare).wav"
+    },
+    {
+      "game": "Super Mario Bros.",
+      "file": "jingles/NES/01 Super Mario Bros..wav"
+    },
+    {
+      "game": "Super Mario Bros. 2",
+      "file": "jingles/NES/02 Super Mario Bros. 2.wav"
+    },
+    {
+      "game": "Super Mario Bros. 3",
+      "file": "jingles/NES/03 Super Mario Bros. 3.wav"
+    },
+    {
+      "game": "Donkey Kong",
+      "file": "jingles/NES/04 Donkey Kong.wav"
+    },
+    {
+      "game": "Donkey Kong Jr.",
+      "file": "jingles/NES/05 Donkey Kong Jr..wav"
+    },
+    {
+      "game": "The Legend of Zelda",
+      "file": "jingles/NES/06 The Legend of Zelda.wav"
+    },
+    {
+      "game": "Zelda II - The Adventure of Link",
+      "file": "jingles/NES/07 Zelda II - The Adventure of Link.wav"
+    },
+    {
+      "game": "Metroid",
+      "file": "jingles/NES/08 Metroid.wav"
+    },
+    {
+      "game": "Kid Icarus",
+      "file": "jingles/NES/09 Kid Icarus.wav"
+    },
+    {
+      "game": "Mike Tyson's Punch-Out!!",
+      "file": "jingles/NES/10 Mike Tyson's Punch-Out!!.wav"
+    },
+    {
+      "game": "Balloon Fight",
+      "file": "jingles/NES/11 Balloon Fight.wav"
+    },
+    {
+      "game": "Ice Climber",
+      "file": "jingles/NES/12 Ice Climber.wav"
+    },
+    {
+      "game": "Excitebike",
+      "file": "jingles/NES/13 Excitebike.wav"
+    },
+    {
+      "game": "Kirby's Adventure",
+      "file": "jingles/NES/14 Kirby's Adventure.wav"
+    },
+    {
+      "game": "Mario Bros.",
+      "file": "jingles/NES/15 Mario Bros..wav"
+    },
+    {
+      "game": "Dr. Mario",
+      "file": "jingles/NES/16 Dr. Mario.wav"
+    },
+    {
+      "game": "Super Mario Bros. - The Lost Levels",
+      "file": "jingles/NES/17 Super Mario Bros. - The Lost Levels.wav"
+    },
+    {
+      "game": "Yoshi",
+      "file": "jingles/NES/18 Yoshi.wav"
+    },
+    {
+      "game": "Mega Man",
+      "file": "jingles/NES/19 Mega Man.wav"
+    },
+    {
+      "game": "Mega Man 2",
+      "file": "jingles/NES/20 Mega Man 2.wav"
+    },
+    {
+      "game": "Final Fantasy",
+      "file": "jingles/NES/21 Final Fantasy.wav"
+    },
+    {
+      "game": "Ninja Gaiden",
+      "file": "jingles/NES/22 Ninja Gaiden.wav"
+    },
+    {
+      "game": "Castlevania",
+      "file": "jingles/NES/23 Castlevania.wav"
+    },
+    {
+      "game": "Castlevania II - Simon's Quest",
+      "file": "jingles/NES/24 Castlevania II - Simon's Quest.wav"
+    },
+    {
+      "game": "Contra",
+      "file": "jingles/NES/25 Contra.wav"
+    },
+    {
+      "game": "Pac-Man",
+      "file": "jingles/NES/26 Pac-Man.wav"
+    },
+    {
+      "game": "Tetris",
+      "file": "jingles/NES/27 Tetris.wav"
     }
   ]
 }
