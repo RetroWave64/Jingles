@@ -186,6 +186,18 @@
       "file": "jingles/NES/27 Tetris.wav"
     },
     {
+      "game": "Burnout 3 Takedown",
+      "file": "jingles/PS2/Burnout 3 Takedown.wav"
+    },
+    {
+      "game": "Capcom vs SNK 2",
+      "file": "jingles/PS2/Capcom vs SNK 2.wav"
+    },
+    {
+      "game": "Castlevania Curse of Darkness",
+      "file": "jingles/PS2/Castlevania Curse of Darkness.wav"
+    },
+    {
       "game": "Crash Bandicoot Wrath of Cortex",
       "file": "jingles/PS2/Crash Bandicoot Wrath of Cortex.wav"
     },
