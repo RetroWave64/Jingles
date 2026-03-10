@@ -184,6 +184,78 @@
     {
       "game": "Tetris",
       "file": "jingles/NES/27 Tetris.wav"
+    },
+    {
+      "game": "Crash Bandicoot Wrath of Cortex",
+      "file": "jingles/PS2/Crash Bandicoot Wrath of Cortex.wav"
+    },
+    {
+      "game": "Crash Twinsanity",
+      "file": "jingles/PS2/Crash Twinsanity.wav"
+    },
+    {
+      "game": "Crash of the Titans",
+      "file": "jingles/PS2/Crash of the Titans.wav"
+    },
+    {
+      "game": "Dark Cloud 2",
+      "file": "jingles/PS2/Dark Cloud 2.wav"
+    },
+    {
+      "game": "Dark Cloud",
+      "file": "jingles/PS2/Dark Cloud.wav"
+    },
+    {
+      "game": "Dragon Ball Z Budokai 3",
+      "file": "jingles/PS2/Dragon Ball Z Budokai 3.wav"
+    },
+    {
+      "game": "Haunting Ground",
+      "file": "jingles/PS2/Haunting Ground.wav"
+    },
+    {
+      "game": "Malice",
+      "file": "jingles/PS2/Malice.wav"
+    },
+    {
+      "game": "Mana Khemia Alchemists of Al-Revis",
+      "file": "jingles/PS2/Mana Khemia Alchemists of Al-Revis.wav"
+    },
+    {
+      "game": "Mega Man Anniversary Collection",
+      "file": "jingles/PS2/Mega Man Anniversary Collection.wav"
+    },
+    {
+      "game": "Mega Man X Collection",
+      "file": "jingles/PS2/Mega Man X Collection.wav"
+    },
+    {
+      "game": "Musashi Samurai Legend",
+      "file": "jingles/PS2/Musashi Samurai Legend.wav"
+    },
+    {
+      "game": "Naruto Ultimate Ninja 2",
+      "file": "jingles/PS2/Naruto Ultimate Ninja 2.wav"
+    },
+    {
+      "game": "Naruto Ultimate Ninja 3",
+      "file": "jingles/PS2/Naruto Ultimate Ninja 3.wav"
+    },
+    {
+      "game": "Naruto Ultimate Ninja 4",
+      "file": "jingles/PS2/Naruto Ultimate Ninja 4.wav"
+    },
+    {
+      "game": "Naruto Ultimate Ninja",
+      "file": "jingles/PS2/Naruto Ultimate Ninja.wav"
+    },
+    {
+      "game": "Resident Evil CODE Veronica X",
+      "file": "jingles/PS2/Resident Evil CODE Veronica X.wav"
+    },
+    {
+      "game": "Silent Hill 2",
+      "file": "jingles/PS2/Silent Hill 2.wav"
     }
   ]
 }
