@@ -268,7 +268,28 @@
     {
       "game": "Silent Hill 2",
       "file": "jingles/PS2/Silent Hill 2.wav"
-    },{
+    },
+    {
+      "game": "Sly 2 Band of Thieves",
+      "file": "jingles/PS2/Sly 2 Band of Thieves.wav"
+    },
+    {
+      "game": "Teenage Mutant Ninja Turtles 2 Battle Nexus",
+      "file": "jingles/PS2/Teenage Mutant Ninja Turtles 2 Battle Nexus.wav"
+    },
+    {
+      "game": "Teenage Mutant Ninja Turtles 3 Mutant Nightmare",
+      "file": "jingles/PS2/Teenage Mutant Ninja Turtles 3 Mutant Nightmare.wav"
+    },
+    {
+      "game": "Teenage Mutant Ninja Turtles",
+      "file": "jingles/PS2/Teenage Mutant Ninja Turtles.wav"
+    },
+    {
+      "game": "The Simpsons Game",
+      "file": "jingles/PS2/The Simpsons Game.wav"
+    },
+    {
       "game": "Resident Evil 1 Remake",
       "file": "jingles/Resident Evil Series/Resident Evil 1 Remake.wav"
     },
