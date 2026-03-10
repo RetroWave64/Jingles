@@ -1,7 +1,7 @@
 {
-  "name": "3DS Jingles Pack",
+  "name": "Jingles Pack",
   "entries": [
-{
+    {
       "game": "Shadow the Hedgehog",
       "file": "jingles/Sonic The Hedgehog Series/Shadow the Hedgehog.wav"
     },
@@ -76,7 +76,7 @@
     {
       "game": "Sonic the Hedgehog",
       "file": "jingles/Sonic The Hedgehog Series/Sonic the Hedgehog.wav"
-    }
+    },
     {
       "game": "Super Mario Bros.",
       "file": "jingles/NES/01 Super Mario Bros..wav"
@@ -187,3 +187,4 @@
     }
   ]
 }
+```
