@@ -2,6 +2,82 @@
   "name": "Jingles Pack",
   "entries": [
     {
+      "game": "Dragon Quest I",
+      "file": "jingles/Dragon Quest Series/Dragon Quest I [NES] Overture.wav"
+    },
+    {
+      "game": "Dragon Quest I+II",
+      "file": "jingles/Dragon Quest Series/Dragon Quest I+II [GBC].wav"
+    },
+    {
+      "game": "Dragon Quest I+II",
+      "file": "jingles/Dragon Quest Series/Dragon Quest I+II [SNES].wav"
+    },
+    {
+      "game": "Dragon Quest II",
+      "file": "jingles/Dragon Quest Series/Dragon Quest II [NES].wav"
+    },
+    {
+      "game": "Dragon Quest III",
+      "file": "jingles/Dragon Quest Series/Dragon Quest III [GBC].wav"
+    },
+    {
+      "game": "Dragon Quest III",
+      "file": "jingles/Dragon Quest Series/Dragon Quest III [NES].wav"
+    },
+    {
+      "game": "Dragon Quest III",
+      "file": "jingles/Dragon Quest Series/Dragon Quest III [SNES].wav"
+    },
+    {
+      "game": "Dragon Quest IV",
+      "file": "jingles/Dragon Quest Series/Dragon Quest IV [DS].wav"
+    },
+    {
+      "game": "Dragon Quest IV",
+      "file": "jingles/Dragon Quest Series/Dragon Quest IV [NES].wav"
+    },
+    {
+      "game": "Dragon Quest IV",
+      "file": "jingles/Dragon Quest Series/Dragon Quest IV [PS1].wav"
+    },
+    {
+      "game": "Dragon Quest IX",
+      "file": "jingles/Dragon Quest Series/Dragon Quest IX [DS].wav"
+    },
+    {
+      "game": "Dragon Quest V",
+      "file": "jingles/Dragon Quest Series/Dragon Quest V [PS2].wav"
+    },
+    {
+      "game": "Dragon Quest V",
+      "file": "jingles/Dragon Quest Series/Dragon Quest V [SNES].wav"
+    },
+    {
+      "game": "Dragon Quest VII",
+      "file": "jingles/Dragon Quest Series/Dragon Quest VII Reimagined.wav"
+    },
+    {
+      "game": "Dragon Quest VII",
+      "file": "jingles/Dragon Quest Series/Dragon Quest VII [3DS].wav"
+    },
+    {
+      "game": "Dragon Quest VII",
+      "file": "jingles/Dragon Quest Series/Dragon Quest VII [PS1].wav"
+    },
+    {
+      "game": "Dragon Quest VIII",
+      "file": "jingles/Dragon Quest Series/Dragon Quest VIII [3DS].wav"
+    },
+    {
+      "game": "Dragon Quest VIII",
+      "file": "jingles/Dragon Quest Series/Dragon Quest VIII [PS2].wav"
+    },
+    {
+      "game": "Dragon Quest XI",
+      "file": "jingles/Dragon Quest Series/Dragon Quest XI.wav"
+    },
+    {
       "game": "Shadow the Hedgehog",
       "file": "jingles/Sonic The Hedgehog Series/Shadow the Hedgehog.wav"
     },
