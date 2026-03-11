@@ -270,17 +270,81 @@
       "file": "jingles/Kingdom Hearts Series/Kingdom Hearts 3D Dream Drop Distance (Dearly Beloved).wav"
     },
     {
-      "game": "Super Mario Bros.",
-      "file": "jingles/NES/01 Super Mario Bros..wav"
+      "game": "New Super Mario Bros Wii",
+      "file": "jingles/Super Mario Series/New Super Mario Bros Wii.wav"
+    },
+    {
+      "game": "New Super Mario Bros",
+      "file": "jingles/Super Mario Series/New Super Mario Bros.wav"
+    },
+    {
+      "game": "Super Mario 3D Land",
+      "file": "jingles/Super Mario Series/Super Mario 3D Land.wav"
+    },
+    {
+      "game": "Super Mario 3D World",
+      "file": "jingles/Super Mario Series/Super Mario 3D World.wav"
+    },
+    {
+      "game": "Super Mario 64",
+      "file": "jingles/Super Mario Series/Super Mario 64.wav"
     },
     {
       "game": "Super Mario Bros. 2",
-      "file": "jingles/NES/02 Super Mario Bros. 2.wav"
+      "file": "jingles/Super Mario Series/Super Mario Bros. 2.wav"
     },
     {
       "game": "Super Mario Bros. 3",
-      "file": "jingles/NES/03 Super Mario Bros. 3.wav"
+      "file": "jingles/Super Mario Series/Super Mario Bros. 3.wav"
     },
+    {
+      "game": "Super Mario Bros. Wonder",
+      "file": "jingles/Super Mario Series/Super Mario Bros. Wonder.wav"
+    },
+    {
+      "game": "Super Mario Bros.",
+      "file": "jingles/Super Mario Series/Super Mario Bros..wav"
+    },
+    {
+      "game": "Super Mario Galaxy 2",
+      "file": "jingles/Super Mario Series/Super Mario Galaxy 2.wav"
+    },
+    {
+      "game": "Super Mario Galaxy",
+      "file": "jingles/Super Mario Series/Super Mario Galaxy.wav"
+    },
+    {
+      "game": "Super Mario Land 2",
+      "file": "jingles/Super Mario Series/Super Mario Land 2.wav"
+    },
+    {
+      "game": "Super Mario Land",
+      "file": "jingles/Super Mario Series/Super Mario Land.wav"
+    },
+    {
+      "game": "Super Mario Odyssey",
+      "file": "jingles/Super Mario Series/Super Mario Odyssey.wav"
+    },
+    {
+      "game": "Super Mario RPG",
+      "file": "jingles/Super Mario Series/Super Mario RPG (SNES).wav"
+    },
+    {
+      "game": "Super Mario Sunshine",
+      "file": "jingles/Super Mario Series/Super Mario Sunshine.wav"
+    },
+    {
+      "game": "Super Mario World 2 - Yoshi's Island",
+      "file": "jingles/Super Mario Series/Super Mario World 2 - Yoshi's Island.wav"
+    },
+    {
+      "game": "Super Mario World",
+      "file": "jingles/Super Mario Series/Super Mario World.wav"
+    },
+    {
+      "game": "Super Princess Peach",
+      "file": "jingles/Super Mario Series/Super Princess Peach.wav"
+    }
     {
       "game": "Donkey Kong",
       "file": "jingles/NES/04 Donkey Kong.wav"
