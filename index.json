@@ -600,6 +600,54 @@
     {
       "game": "Resident Evil Code Veronica",
       "file": "jingles/Resident Evil Series/Resident Evil Code Veronica.wav"
+    },
+    {
+      "game": "Silent Hill 3",
+      "file": "jingles/Silent Hill Series/Silent Hill 3.wav"
+    },
+    {
+      "game": "Silent Hill 4",
+      "file": "jingles/Silent Hill Series/Silent Hill 4.wav"
+    },
+    {
+      "game": "Silent Hill Shattered Memories",
+      "file": "jingles/Silent Hill Series/Silent Hill Shattered Memories.wav"
+    },
+    {
+      "game": "Silent Hill",
+      "file": "jingles/Silent Hill Series/Silent Hill.wav"
+    },
+    {
+      "game": "Crazy Taxi",
+      "file": "jingles/Dreamcast/Crazy Taxi.wav"
+    },
+    {
+      "game": "Illbleed",
+      "file": "jingles/Dreamcast/Illbleed.wav"
+    },
+    {
+      "game": "Jet Set Radio",
+      "file": "jingles/Dreamcast/Jet Set Radio.wav"
+    },
+    {
+      "game": "Marvel vs. Capcom 2",
+      "file": "jingles/Dreamcast/Marvel vs. Capcom 2.wav"
+    },
+    {
+      "game": "Samba de Amigo",
+      "file": "jingles/Dreamcast/Samba de Amigo.wav"
+    },
+    {
+      "game": "Skies of Arcadia",
+      "file": "jingles/Dreamcast/Skies of Arcadia.wav"
+    },
+    {
+      "game": "Soulcalibur",
+      "file": "jingles/Dreamcast/Soulcalibur.wav"
+    },
+    {
+      "game": "Space Channel 5",
+      "file": "jingles/Dreamcast/Space Channel 5.wav"
     }
   ]
 }
